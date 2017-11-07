@@ -55,3 +55,17 @@
   height: 0;
   clear: both;
 }
+
+@media (max-width: 600px) {
+  .column-1-3 {
+    float: none;
+    width: auto;
+  }
+}
+
+@media (max-width: 450px) {
+  .column-1-2 {
+    float: none;
+    width: auto;
+  }
+}
