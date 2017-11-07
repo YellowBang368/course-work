@@ -9,3 +9,7 @@
 .order .container {
   padding: 50px 0;
 }
+
+.order .button-green {
+  width: 150px;
+}
