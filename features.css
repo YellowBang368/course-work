@@ -1,0 +1,14 @@
+.features {
+  padding: 40px 0;
+  background: #f3f3f3;
+}
+
+.features-icon {
+  padding-left: 35px;
+  max-width: 75%;
+  max-height: 75%;
+}
+
+.features-item {
+  padding: 10px;
+}

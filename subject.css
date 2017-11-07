@@ -1,0 +1,20 @@
+.subject-image {
+  display: inline-block;
+  float: left;
+  width: 160px;
+}
+
+.subject-desc {
+  display: inline-block;
+  max-width: 270px;
+  margin-left: 20px;
+}
+
+.subject-desc .title-small {
+  font-size: 1.7em;
+}
+
+.subject-desc .price {
+  font-style: italic;
+  font-weight: bold;
+}
